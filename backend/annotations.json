@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1748797701701.8623,
+    "tool": "circle",
+    "color": "#ffffff",
+    "startX": 458,
+    "startY": 312,
+    "start": 3.271785,
+    "end": 5.2717849999999995,
+    "width": 412,
+    "height": 349,
+    "scaleX": 1,
+    "scaleY": 1,
+    "endX": 870,
+    "endY": 661,
+    "videoId": "default",
+    "createdAt": "2025-06-01T17:08:23.777Z",
+    "updatedAt": "2025-06-01T17:13:37.662Z"
+  },
+  {
+    "id": 1748797749926.2754,
+    "tool": "circle",
+    "color": "#ffffff",
+    "startX": 9,
+    "startY": 329,
+    "start": 3.271785,
+    "end": 5.2717849999999995,
+    "width": 263,
+    "height": 298,
+    "scaleX": 1,
+    "scaleY": 1,
+    "endX": 272,
+    "endY": 627,
+    "videoId": "default",
+    "createdAt": "2025-06-01T17:09:12.024Z",
+    "updatedAt": "2025-06-01T17:13:37.662Z"
+  }
+]
